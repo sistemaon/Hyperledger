@@ -82,7 +82,9 @@ https://iroha.readthedocs.io/en/latest/before_start/architecture.html
 
 https://raft.github.io/
 
-https://en.wikipedia.org/wiki/Paxos_(computer_science)*
+https://en.wikipedia.org/wiki/Paxos_(computer_science)
+
+https://sawtooth.hyperledger.org/docs/raft/nightly/master/*
 
 
 
@@ -134,7 +136,7 @@ __Merkle Tree__
 
 Also known as a binary hash tree, is a data structure that is used to store hashes of the individual data in large datasets in a way to make the verification of the dataset efficient. It is an anti-tamper mechanism to ensure that the large dataset has not been changed. The word "tree" is used to refer to a branching data structure in computer science.
 
-IMG -> //https://commons.wikimedia.org/wiki/File:Bitcoin_Block_Data.png//
+IMG -> //https://commons.wikimedia.org/wiki/File:Bitcoin_Block_Data.png
 
 *Merkle trees are used to summarize all the transactions in a block, producing an overall digital fingerprint of the entire set of transactions, providing a very efficient process to verify whether a transaction is included in a block.*
 
@@ -650,4 +652,3 @@ It allows to have tens, or hundreds, or potentially thousands of different nodes
 
 
 ///////////////////////////
-
